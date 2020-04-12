@@ -1,0 +1,4 @@
+<test>
+    <inner-tag test="the-test"></inner-tag>
+    <another/>
+</test>
